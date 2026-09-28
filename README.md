@@ -1,5 +1,4 @@
-#### 💫 About Me:
-#### Hey there! 👋<br><br>I'm Igor, a software development student based in London, UK.
+#### Hey there! 😁<br><br>I'm Igor, a software development student based in London, UK.
 
 #### 🌐 Socials
 
